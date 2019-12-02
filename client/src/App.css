@@ -1,0 +1,55 @@
+.leftt{
+    position: relative;
+    left:35px ;
+}
+
+.bgcolor{
+    background-color:#ededed;
+    height:550px;
+}
+
+.bgnotes{
+    background-color:#ededed;
+    height:auto;
+}
+
+.loginheight{
+    position: relative;
+    top:110px;
+}
+
+.textLogin{
+    width:70%
+}
+
+.goldColor{
+    background-color:gold;
+}
+
+.addbg{
+    background-image: url('./component/images/add.jpg');
+    width: 420px;
+    height: 400px;
+    position: relative;
+    bottom: 30px;
+}
+
+.formlog{
+    position: relative;
+    top: 40px;
+    padding: 40px;
+}
+
+.headingtag{
+    position: relative;
+    top: 70px;
+    left: 70px;
+}
+.buttonpost{
+    position:relative;
+    left:10px
+}
+
+.navCol{
+    color: #764204;
+}
